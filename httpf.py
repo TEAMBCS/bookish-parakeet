@@ -50,13 +50,7 @@ attack_stop_event = threading.Event()
 
 def print_banner():
     """Display a custom ASCII art banner with detailed system and version information."""
-   banner = [
-    "  _          _ _       ___ _           _ _         _ _ _ ",
-    "| |__   ___| | | ___ / __| |__   ___ | | | ___   | | | |",
-    "| '_ \\ / __| | |/ _ \\ |  | '_ \\ / __|| | |/ _ \\  | | | |",
-    "| | | | (__| | |  __/ |__| | | | (__ | | |  __/  |_|_|_|",
-    r"|_| |_| \___|_|_|\___|\___|_| |_| \___|_|_|\___|  (_|_|_)",  # raw string
-    "",
+   banner="hlw",
     "Ultimate HTTPS Flood Tool - Middle East Optimized",
     "World’s Most Advanced HTTP Flood with AI-Driven Evasion",
     "Unmatched Performance, Stealth, Precision, and Adaptability",
