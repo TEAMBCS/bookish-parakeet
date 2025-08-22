@@ -39,7 +39,7 @@ from typing import Tuple, Dict, Optional, List, Set, Union
 # Initialize colorama for colored terminal output
 colorama.init()
 
-# Initialize Faker for generating fake data
+# Initialize Faker for generating fake dat
 faker = Faker()
 
 # Disable urllib3 warnings for unverified HTTPS requests
